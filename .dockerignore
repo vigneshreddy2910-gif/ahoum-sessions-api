@@ -1,0 +1,14 @@
+
+.venv/
+venv/
+ahoum/
+__pycache__/
+*.pyc
+.pytest_cache/
+.git/
+.github/
+.env
+data/
+*.db
+test/
+tests/
